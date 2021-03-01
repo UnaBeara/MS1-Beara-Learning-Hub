@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap;300,600,700,800|Exo:100,200,300,400,500,600,700');
+
+/*________________________________colors*/
+.jumbotron {
+    background-color: aqua;
+}
+
+/*________________________________images*/
+.page-top-img {
+   background-image: url("..images/eyeries-sunset.jpg") no-repeat center center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
+}
+
+.bg-image {
+    background: url('');
+}
+
+
+
